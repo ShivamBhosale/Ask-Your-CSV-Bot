@@ -1,0 +1,9 @@
+Month,Region,Product,Revenue,Units_Sold
+Jan,North,Laptop,12000,30
+Jan,South,Tablet,8000,45
+Feb,North,Laptop,15000,35
+Feb,South,Tablet,9000,50
+Mar,North,Laptop,14000,32
+Mar,South,Tablet,10000,55
+Apr,North,Laptop,16000,38
+Apr,South,Tablet,11000,60
