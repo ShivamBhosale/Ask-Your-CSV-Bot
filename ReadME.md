@@ -1,4 +1,4 @@
-# Ask-Your-CSV-Bot
+# Ask-Your-CSV
 ---
 
 ## Features
